@@ -1,0 +1,30 @@
+# Environment Variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Telethon Session
+*.session
+*.session-journal
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User specific exclusions
+sing-box.service
+marzban_setup/
